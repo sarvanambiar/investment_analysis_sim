@@ -103,8 +103,7 @@ pip install numpy pandas statsmodels yfinance
      ```bash
      python scripts/modularize_investments.py
      ```
-   - Outputs, including portfolio weights and Sharpe ratios, will be saved in the `results/` folder.
-
+     
 4. **View Kuhn-Tucker Implementation**:
    - Navigate to the `excel/` folder to access the Excel file containing the Kuhn-Tucker implementation.
 

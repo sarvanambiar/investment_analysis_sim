@@ -101,7 +101,7 @@ pip install numpy pandas statsmodels yfinance
 3. **Run the Analysis**:
    - Execute the main script:
      ```bash
-     python scripts/analysis.py
+     python scripts/modularize_investments.py
      ```
    - Outputs, including portfolio weights and Sharpe ratios, will be saved in the `results/` folder.
 
